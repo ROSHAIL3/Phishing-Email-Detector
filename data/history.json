@@ -1,0 +1,285 @@
+[
+  {
+    "timestamp": "2025-08-11T13:10:48",
+    "summary": {
+      "risk_level": "Low",
+      "score": 32
+    },
+    "keywords": [
+      "suspicious activity"
+    ],
+    "urls": [
+      "http://secure-login-update.com"
+    ],
+    "sentences": [
+      "Dear Customer,\n\nWe’ve detected suspicious activity on your account."
+    ],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 1,
+      "sentence_hits": 1
+    },
+    "preview": "Dear Customer,\n\nWe’ve detected suspicious activity on your account. To ensure your security, please verify your information immediately by clicking the link below:\n\nhttp://secure-login-update.com\n\nFailure to do so may result in temporary su..."
+  },
+  {
+    "timestamp": "2025-08-11T13:11:09",
+    "summary": {
+      "risk_level": "Low",
+      "score": 28
+    },
+    "keywords": [
+      "click here",
+      "update your information"
+    ],
+    "urls": [],
+    "sentences": [
+      "Download the attached invoice and update your information to avoid service interruption.",
+      "Click here: http://billing-update-info.com/invoice\n\nRegards,\nBilling Dept"
+    ],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 2,
+      "sentence_hits": 2
+    },
+    "preview": "Hello,\n\nYour payment could not be processed. Download the attached invoice and update your information to avoid service interruption.\n\nClick here: http://billing-update-info.com/invoice\n\nRegards,\nBilling Dept"
+  },
+  {
+    "timestamp": "2025-08-11T13:11:10",
+    "summary": {
+      "risk_level": "Low",
+      "score": 28
+    },
+    "keywords": [
+      "click here",
+      "update your information"
+    ],
+    "urls": [],
+    "sentences": [
+      "Download the attached invoice and update your information to avoid service interruption.",
+      "Click here: http://billing-update-info.com/invoice\n\nRegards,\nBilling Dept"
+    ],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 2,
+      "sentence_hits": 2
+    },
+    "preview": "Hello,\n\nYour payment could not be processed. Download the attached invoice and update your information to avoid service interruption.\n\nClick here: http://billing-update-info.com/invoice\n\nRegards,\nBilling Dept"
+  },
+  {
+    "timestamp": "2025-08-11T13:12:32",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "https://secure-clientlogin-checkbanking.com/verify"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently detected irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity imme..."
+  },
+  {
+    "timestamp": "2025-08-11T13:12:40",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/verify"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently detected irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity imme..."
+  },
+  {
+    "timestamp": "2025-08-11T13:12:53",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/hack"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently detected irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity imme..."
+  },
+  {
+    "timestamp": "2025-08-11T13:12:54",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/hack"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently detected irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity imme..."
+  },
+  {
+    "timestamp": "2025-08-11T13:13:03",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/hack"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently hack irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity immediat..."
+  },
+  {
+    "timestamp": "2025-08-11T13:13:04",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/hack"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently hack irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity immediat..."
+  },
+  {
+    "timestamp": "2025-08-11T13:13:04",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/hack"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently hack irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity immediat..."
+  },
+  {
+    "timestamp": "2025-08-11T13:13:04",
+    "summary": {
+      "risk_level": "Low",
+      "score": 18
+    },
+    "keywords": [],
+    "urls": [
+      "http://secure-clientlogin-checkbanking.com/hack"
+    ],
+    "sentences": [],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 0,
+      "sentence_hits": 0
+    },
+    "preview": "Dear Valued Customer,\n\nWe recently hack irregular activity in your online banking account and, for your security, we have temporarily restricted access.\n\nTo restore access and avoid permanent suspension, please verify your identity immediat..."
+  },
+  {
+    "timestamp": "2025-08-11T13:13:15",
+    "summary": {
+      "risk_level": "Low",
+      "score": 32
+    },
+    "keywords": [
+      "suspicious activity"
+    ],
+    "urls": [
+      "http://secure-login-update.com"
+    ],
+    "sentences": [
+      "Dear Customer,\n\nWe’ve detected suspicious activity on your account."
+    ],
+    "details": {
+      "all_caps_words": 0,
+      "exclamation_marks": 0,
+      "url_count": 1,
+      "keyword_count": 1,
+      "sentence_hits": 1
+    },
+    "preview": "Dear Customer,\n\nWe’ve detected suspicious activity on your account. To ensure your security, please verify your information immediately by clicking the link below:\n\nhttp://secure-login-update.com\n\nFailure to do so may result in temporary su..."
+  },
+  {
+    "timestamp": "2025-08-11T13:13:57",
+    "summary": {
+      "risk_level": "High",
+      "score": 70
+    },
+    "keywords": [
+      "urgent",
+      "act now"
+    ],
+    "urls": [
+      "https://secure-update-login.com/urgent-check",
+      "https://account-verification-alert.com/login"
+    ],
+    "sentences": [
+      "Dear User,\n\nYour account has been flagged for multiple violations and will be TERMINATED within 12 hours unless you act now.",
+      "To avoid permanent loss of data and access, please verify your identity immediately:\n\n🔐 https://secure-update-login.com/urgent-check  \n🔐 https://account-verification-alert.com/login  \n🔐 https://restore-access-now.net/security\n\nFailure to comply will result in:\n- Suspension of all services\n- Deletion of stored files\n- Reporting to cybercrime authorities\n\nThis is your FINAL WARNING."
+    ],
+    "details": {
+      "all_caps_words": 3,
+      "exclamation_marks": 0,
+      "url_count": 4,
+      "keyword_count": 2,
+      "sentence_hits": 2
+    },
+    "preview": "Dear User,\n\nYour account has been flagged for multiple violations and will be TERMINATED within 12 hours unless you act now.\n\nWe have detected unauthorized access from IP: 192.0.2.45 and your credentials may be compromised.\n\nTo avoid perman..."
+  }
+]

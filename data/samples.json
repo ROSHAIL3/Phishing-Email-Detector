@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Classic phishing",
+    "body": "Dear Customer,\n\nWe’ve detected suspicious activity on your account. To ensure your security, please verify your information immediately by clicking the link below:\n\nhttp://secure-login-update.com\n\nFailure to do so may result in temporary suspension of your account.\n\nThank you,\nSecurity Team"
+  },
+  {
+    "title": "Attachment bait",
+    "body": "Hello,\n\nYour payment could not be processed. Download the attached invoice and update your information to avoid service interruption.\n\nClick here: http://billing-update-info.com/invoice\n\nRegards,\nBilling Dept"
+  },
+  {
+    "title": "Prize lure",
+    "body": "Congratulations!\n\nYou won a prize in our monthly lottery. Confirm your identity to claim the reward within 24 hours.\n\nClaim now: https://claim-reward-prize.info\n\nBest,\nPromotions Team"
+  }
+]
