@@ -142,4 +142,3 @@ python main.py
 Enjoy your local phishing email detector! 🛡️🚫📧
 
 ```
-
